@@ -1,4 +1,3 @@
-from cgi import test
 import requests
 import telebot
 import pymysql
